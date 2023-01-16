@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpPipeLines", "CSharpPipeLines.csproj", "{8328AC15-DF70-4206-8A5B-AA09B1E19845}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8328AC15-DF70-4206-8A5B-AA09B1E19845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8328AC15-DF70-4206-8A5B-AA09B1E19845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8328AC15-DF70-4206-8A5B-AA09B1E19845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8328AC15-DF70-4206-8A5B-AA09B1E19845}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE931BD8-B781-4A12-8770-9A419CFCD639}
+	EndGlobalSection
+EndGlobal

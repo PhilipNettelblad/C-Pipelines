@@ -1,0 +1,7 @@
+C:\CEX\CSharpPipeLines\obj\Release\net6.0\PubTmp\Out\CSharpPipeLines.exe
+C:\CEX\CSharpPipeLines\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\CEX\CSharpPipeLines\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\CEX\CSharpPipeLines\obj\Release\net6.0\PubTmp\Out\CSharpPipeLines.dll
+C:\CEX\CSharpPipeLines\obj\Release\net6.0\PubTmp\Out\CSharpPipeLines.deps.json
+C:\CEX\CSharpPipeLines\obj\Release\net6.0\PubTmp\Out\CSharpPipeLines.runtimeconfig.json
+C:\CEX\CSharpPipeLines\obj\Release\net6.0\PubTmp\Out\CSharpPipeLines.pdb
